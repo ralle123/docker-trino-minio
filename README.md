@@ -4,6 +4,8 @@ to run comtainers
 docker-compose up
 ```
 
+![all 4 containers running should show something like this](https://github.com/ralle123/docker-trino-minio/blob/master/images/running%20conainers.jpg)
+
 to close everything
 
 ```
